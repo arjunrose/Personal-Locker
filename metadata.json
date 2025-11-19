@@ -1,0 +1,7 @@
+{
+  "name": "VaultGuard AI",
+  "description": "A secure vault web application that captures photos of intruders upon incorrect PIN entry and uses Gemini AI to analyze security threats.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
